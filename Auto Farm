@@ -1,0 +1,2 @@
+Start: loadstring(game:HttpGet('https://github.com/applless/RandomScripts/raw/main/DaHoodAutofarm'))()
+End: getgenv().Dis()
